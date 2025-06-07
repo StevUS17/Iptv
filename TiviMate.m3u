@@ -15,7 +15,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/2880px-Mentari_TV.svg.png" group-title="Lokal",Mentari TV
 https://app-etslive-2.vidio.com/live/8237/master.m3u8
 #EXTINF:-1 tvg-id="Mentari TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/2880px-Mentari_TV.svg.png" group-title="Lokal",Mentari TV 2
-http://210.210.155.37:80/session/7bc7fdb4-70a9-11ee-8428-c81f66f89318/uq2663/h/h14/01.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-id="ANTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2880px-Antv_logo.svg.png" group-title="Lokal",ANTV HD
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="INDOSIAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/2560px-Indosiar_2015.svg.png" group-title="Lokal",INDOSIAR HD
