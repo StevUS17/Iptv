@@ -51,9 +51,9 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="NUSANTARA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nusantara_TV_Symbol.svg/1920px-Nusantara_TV_Symbol.svg.png" group-title="Lokal",NUSANTARA TV HD
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BERITASATU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/480px-BeritaSatu_%28Flat%29.svg.png" group-title="Lokal",BERITASATU HD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+https://app-etslive-2.vidio.com/live/8237/master.m3u8
 #EXTINF:-1 tvg-id="BERITASATU HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/480px-BeritaSatu_%28Flat%29.svg.png" group-title="Lokal",BERITASATU HD 2
-https://streaming.indihometv.com/dass/133/idtv/manifest_wuseetv.mpd
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-id="DAAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/2880px-DAAI_TV.svg.png" group-title="Lokal",DAAI
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-id="INDONESIANA TV" tvg-logo="https://indonesiana.tv/_nuxt/img/logo-indonesianatv.bdbaf66.png" group-title="Lokal",INDONESIANA TV
